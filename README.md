@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ranjay6126/Ranjay6126/blob/main/logo%20github.JPG)
 <h1 align="center">Hi 👋, I'm Ranjay Prajapati.</h1>
-<h3 align="center">A passionate software Engineer developer from India</h3>
+<h3 align="center">A passionate software Engineer developer, Seeking opportunities to apply my skills and grow as a software engineer</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
