@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **panditranjay33@gmail.com**
 
-- ⚡ Fun fact **I am Funny 😎**
+- ⚡ Fun fact ** If I am not coding then I am probably playing games with my friends 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
