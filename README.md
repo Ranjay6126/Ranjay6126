@@ -169,7 +169,15 @@
 </div>
 
 ---
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjay6126&show_icons=true&locale=en&layout=compact" alt="Ranjay Prajapati" />
+</p>
 
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjay6126&show_icons=true&locale=en" alt="Ranjay Prajapati" />
+</p>
+----
 ## 📊 GitHub Stats
 
 <p align="center">
