@@ -168,7 +168,8 @@
 
 </div>
 
----
+-----------------------------------------------------
+## 📊 GitHub Stats ---------------------------------
 <p>
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjay6126&show_icons=true&locale=en&layout=compact" alt="Ranjay Prajapati" />
 </p>
@@ -178,7 +179,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjay6126&show_icons=true&locale=en" alt="Ranjay Prajapati" />
 </p>
 ----
-## 📊 GitHub Stats
+## 📊 GitHub Stats ----
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjay6126&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> -->
