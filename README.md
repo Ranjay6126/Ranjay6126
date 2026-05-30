@@ -5,6 +5,7 @@
 # Hi 👋, I'm Ranjay Prajapati
 
 ### A passionate Software Engineer Developer  
+#---------------------------------------------------------------------------------------------------------------------------------------#
 ### Seeking opportunities to apply my skills and grow as a software engineer
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
@@ -31,9 +32,9 @@
 
 ---
 
-## 🚀 About Me
+## 💫 About Me:
 
-- 🌱 Currently learning **Data Structures & Algorithms** and **Web Development**
+- 🌱 Currently learning **Data Structures & Algorithms** 
 - 👯 Open to collaborating on **Projects and Open Source**
 - 🤝 Looking for help with **Innovative Development Projects**
 - 👨‍💻 Explore all my projects here:  
@@ -95,9 +96,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/><br/>
       <sub>TypeScript</sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><br/>
       <sub>Python</sub>
@@ -133,9 +131,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/><br/>
       <sub>PostgreSQL</sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/><br/>
       <sub>Docker</sub>
@@ -163,13 +158,21 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/><br/>
       <sub>CSS3</sub>
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/><br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/githubactions" width="45" height="45"/><br/>
+      <sub>CI/CD</sub>
+    </td>
+    <td colspan="4"></td>
   </tr>
 </table>
 
 </div>
 
------------------------------------------------------
-## 📊 GitHub Stats ---------------------------------
+##------------------------------------------------------------------- 📊 GitHub Stats --------------------------------------------------##
 <p>
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjay6126&show_icons=true&locale=en&layout=compact" alt="Ranjay Prajapati" />
 </p>
@@ -179,7 +182,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjay6126&show_icons=true&locale=en" alt="Ranjay Prajapati" />
 </p>
 ----
-## 📊 GitHub Stats ----
+ 📊 GitHub Stats ----
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjay6126&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> -->
@@ -197,6 +200,6 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile ! 🤝
 
 </div>
