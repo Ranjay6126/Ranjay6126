@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Ranjay6126/Ranjay6126/blob/main/logo%20github.JPG" width="100%" />
-
 # Hi 👋, I'm Ranjay Prajapati
 
 ### A passionate Software Engineer Developer  
