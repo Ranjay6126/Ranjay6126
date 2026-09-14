@@ -160,10 +160,14 @@ Building scalable, user-focused web applications and continuously improving my s
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ranjay6126&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Ranjay6126&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1"
+    alt="GitHub Trophies"
+  />
 </a>
 
 </div>
+
 
 ---
 
